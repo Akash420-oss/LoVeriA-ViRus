@@ -1,4 +1,4 @@
 # 👾LoVeriA👾ViRus👾
-Actually I've made this project for mylove...😍 on Valentine's Day...❤️
+Actually I've made this project for MyLove...😍 on Valentine's Day...❤️
 When i was doing this on that time i forgot the difference between machine code and human feelings...😔 Because i've also cracked her feelings...💔
-she was my source code and her feelings were executable file 
+Her feelings like an executable file which i've cracked and decompile it, during that time i've lost my source code which was she...
