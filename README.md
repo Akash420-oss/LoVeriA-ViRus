@@ -46,3 +46,5 @@ Once, if you run the program then don't terminate it...👿
 * Mail - akashsil420@duck.com
 
 ## Love with your Source Code...💕
+* Infuse your code with the fragrance of love so, that every function is a gentle caress, and every line a whispered declaration...💗
+* In the dance of algorithms, find the rhythm of love, where each step brings you closer to the perfection of your creation...💞
