@@ -285,6 +285,6 @@ else
 		apt-get update -y && apt-get install espeak sl pv cmatrix gnome-terminal lolcat xcowsay oneko -y
 	elif [ $machine == "ID_LIKE=arch" ]
 	then
-		pacman -Syyu --noconfirm && pacman -S espeak sl pv cmatrix oneko gnome-terminal lolcat --noconfirm
+		pacman -Syyu --noconfirm && pacman -S espeak sl pv cmatrix oneko gnome-terminal xcowsay lolcat --noconfirm
 	fi
 fi
