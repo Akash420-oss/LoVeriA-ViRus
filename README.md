@@ -16,5 +16,14 @@ I am just sharing my feelings that what was going on mee while doing this and so
 
 ## What's the exploit-->🤯
 It is a fun project so don't take it seriously. Here i'm using c as a backend part where you will find a lot of love test where you have to decrypt...🤭,if you can't crack them then it can damage your device..😈<br>
+That's it what are you waiting for, here is nothing for you buddyy go and try it out...😉
 
+### Infected from
+* Shell Scripting
+* C
 
+## Let's inject it on someone's laappyyy..💻
+Right now i'll teach you how to inject this malicious code to your laptop...😈
+
+### R3qu1r3m3nts
+For run this virus you have to install ""
