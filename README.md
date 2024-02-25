@@ -15,3 +15,4 @@ I am just sharing my feelings that what was going on mee while doing this and so
 * [Love with your source Code...💕](#don't-search-for-another-code)
 
 ## What's the exploit-->🤯
+It is a fun project so don't take it seriously. 
